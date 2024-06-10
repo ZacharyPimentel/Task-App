@@ -8,7 +8,7 @@ DB_NAME=" "
 Create a .env file in the /ui and fill in the following:
 VITE_API_URL="http://localhost:3000"
 
-#Running The Application
+# Running The Application
 In /ui run
 1. npm i
 2. npm run start
