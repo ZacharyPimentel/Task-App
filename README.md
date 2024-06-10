@@ -1,5 +1,4 @@
-# This is a task application written in the MERN stack
-# (MongoDB | Express | React | Node
+# This is a task application written in the MERN (MongoDB | Express | React | Node) stack 
 
 # Env Variables For Initial Setup
 Create a .env file in /api and fill in the following:
