@@ -25,3 +25,5 @@ appsettings.json
 *.njsproj
 *.sln
 *.sw?
+
+.env
